@@ -39,7 +39,7 @@ Open `index.html` in any modern browser to see the responsive card slider in act
 
 ## Author 🧑‍💻
 
-code-with-raza
+Developed by Raza Zaheer GitHub: @razazaheer12
 
 ## License 
 
